@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este código representa una aplicación Vue.js que muestra una gráfica de líneas utilizando la librería Chart.js. La gráfica muestra puntos de datos en un rango de fechas, y el usuario puede filtrar los datos mostrados seleccionando una fecha de inicio y una fecha de fin. Los puntos de datos y el rango de fechas pueden actualizarse según la entrada del usuario.
+Este código representa una aplicación Vue.js que muestra una gráfica de líneas utilizando la librería Chart.js. La gráfica muestra puntos de datos en un rango de fechas, y el usuario puede filtrar los datos mostrados seleccionando una fecha de inicio y una fecha de fin. Los puntos de datos y el rango de fechas pueden actualizarse según la entrada del usuario, la visualización de las fechas esta limitada desde 2023-07-23 hasta 2023-08-05.
 
 ## Librerias
 
